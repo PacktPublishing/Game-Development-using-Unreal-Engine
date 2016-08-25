@@ -20,4 +20,6 @@ Game Development using Unreal Engine by Packt Publishing
 
 
 ###Note
+In Module 2 chapter4/Map you will find a folder named SteamingLevelsPart. In that folder you will have 16 zip files named SteamingLevelsPart1.zip.001 to SteamingLevelsPart1.zip.016. Extract SteamingLevelsPart1.zip.001 and you will get a single file named SteamingLevelsPart.umap.
+
  Modules 1 and 2 have code arranged by chapter (for the chapters that have code). Module 3 does not contain code. [Click here] (https://www.cognitoforms.com/None389/CustomerSatisfactionSurvey) if you have any feedback or suggestions.
