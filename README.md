@@ -10,6 +10,8 @@ Game Development using Unreal Engine by Packt Publishing
 * Know inside out about creating materials, and applying them to assets for better performance
 * Understand the differences between BSP and static meshes to make objects interactive
 * Maximize the usage of various tools and features such as UI, the particle system, audio, terrain manipulation, and cinematics in Unreal Engine 4 to create game levels
+
+
  ####Key Features:
 * Investigate the big world of Unreal Engine, computer graphics rendering and Material editor to implement in your games
 * Construct a top-notch game by using the assets offered by Unreal Engine, thereby reducing the time to download, create assets on your own.
